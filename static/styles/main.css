@@ -2,3 +2,51 @@ body {
     background-image: url('../images/background.png');
     background-repeat: repeat-x repeat-y;
 }
+
+header {
+    font-family: 'Playball', cursive;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+footer {
+    font-size: 14px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-family: 'Hind', sans-serif;
+}
+
+.container {
+    padding-left: 75px;
+    padding-right: 75px;
+}
+
+.subject {
+    font-family: 'Pompiere', cursive;
+    font-size: 55px;
+}
+
+#name {
+    font-size: 90px;
+}
+
+#title {
+    font-size: 75px;
+}
+
+#self {
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+#bio {
+    font-size: 20px;
+}
+
+#achievements {
+    font-size: 20px;
+}
